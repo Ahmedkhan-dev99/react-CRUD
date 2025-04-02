@@ -94,13 +94,13 @@ The user schema includes the following fields:
 **Screenshots**
 
 1. **Add Todo**
-   ![Preview CRUD](preview//image1.png)
+   ![Preview CRUD](preview//image1.PNG)
 
 2. **Todo List**
-   ![Delete CRUD](preview//image2.png)
+   ![Delete CRUD](preview//image2.PNG)
 
 3. **Edsit Todo**
-   ![Edit CRUD](preview//image3.png)
+   ![Edit CRUD](preview//image3.PNG)
 
 
 ## Contributing
