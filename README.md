@@ -91,6 +91,18 @@ The user schema includes the following fields:
 - email: String
 - gender: String
 
+**Screenshots**
+
+1. **Add Todo**
+   ![Preview CRUD](preview//image1.png)
+
+2. **Todo List**
+   ![Delete CRUD](preview//image2.png)
+
+3. **Edsit Todo**
+   ![Edit CRUD](preview//image3.png)
+
+
 ## Contributing
 
 1. Fork the repository
