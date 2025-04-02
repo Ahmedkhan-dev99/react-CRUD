@@ -44,7 +44,7 @@ react-CRUD/
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Ahmedkhan-dev99/react-CRUD.git
 cd react-CRUD
 ```
 
@@ -93,13 +93,13 @@ The user schema includes the following fields:
 
 **Screenshots**
 
-1. **Add Todo**
+1. **Preview CRUD**
    ![Preview CRUD](preview//image1.PNG)
 
-2. **Todo List**
+2. **Delete CRUD**
    ![Delete CRUD](preview//image2.PNG)
 
-3. **Edsit Todo**
+3. **Edit CRUD**
    ![Edit CRUD](preview//image3.PNG)
 
 
