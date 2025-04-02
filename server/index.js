@@ -1,8 +1,9 @@
 const express = require('express');
 const mongoose = require('mongoose');
-const cors = require('cors')
+const cors = require('cors');
+require('dotenv').config();
 
-mongoose.connect('mongodb://localhost:27017/my-app');
+mongoose.connect(process.env.DB_HOST);
 const userSchema = new mongoose.Schema({ name: String, email: String, gender: String })
 const Table = mongoose.model('users', userSchema)
 
@@ -48,4 +49,8 @@ app.put('/update',async (req,res) => {
 
 app.listen(5000, () => {
     console.log('Server is running on http://localhost:5000');
+
+
+
+    
 });
